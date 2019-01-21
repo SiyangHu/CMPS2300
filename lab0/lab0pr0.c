@@ -1,3 +1,10 @@
+// Design a program that lets the user analyze performance of a computing system. The
+// user will enter the total time the system has been idle on each day of the week, in
+// minutes. The program will store this information in an array. The program will then
+// display the total idle time, the performance rate of the system during this week (i.e.
+// percentage of idle time with respect to total length of the week), the average daily idle
+// time, and the days with the lowest and highest load.
+
 #include <stdio.h>
 
 int main(){
