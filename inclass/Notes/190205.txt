@@ -1,0 +1,11 @@
+x<<2: shifts value of x two bits to the left
+x>>2: shifts value of x two bits to the right
+a & b: bitwise and of a and b values
+a | b: bitwise or of a and b values
+a ^ b: bitwise xor of a and b values
+
+
+unsigned char x = 6; 
+unsigned char y = 9;
+
+x && y = 
